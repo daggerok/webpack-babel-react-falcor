@@ -12,7 +12,7 @@ module.exports = React.createClass({
     return (
       <div>
         <h1>name: {this.props.name}</h1>
-        <pre>Authors: {JSON.stringify(this.props.authors)}</pre>
+        <h3>Authors: {JSON.stringify(this.props.authors)}</h3>
       </div>
     )
   }

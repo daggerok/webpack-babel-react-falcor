@@ -9,6 +9,6 @@ module.exports = React.createClass({
     }
   },
   render() {
-    return <h3>Ingredients: {JSON.stringify(this.props.ingredients)}</h3>
+    return <code>Ingredients: {JSON.stringify(this.props.ingredients)}</code>
   }
 })
