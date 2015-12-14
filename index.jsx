@@ -8,4 +8,4 @@ App      = React.createClass({
 }),
 ReactDOM = require('react-dom')
 
-ReactDOM.render(<App/>, document.getElementById('target') );
+ReactDOM.render(<App />, document.getElementById('target') );
