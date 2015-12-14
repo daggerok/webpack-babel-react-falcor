@@ -1,5 +1,5 @@
 {
-  "name": "webpack-react-example",
+  "name": "webpack-babel-react-falcor",
   "version": "1.0.0",
   "description": "npm scripts, webpack with babel, falcor data processing and react components",
   "main": "src/index.jsx",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daggerok/gulp-react-example.git"
+    "url": "git+https://github.com/daggerok/webpack-babel-react-falcor.git"
   },
   "author": "Maksim Kostromin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/daggerok/gulp-react-example/issues"
+    "url": "https://github.com/daggerok/webpack-babel-react-falcor/issues"
   },
-  "homepage": "https://github.com/daggerok/gulp-react-example#readme",
+  "homepage": "https://github.com/daggerok/webpack-babel-react-falcor#readme",
   "devDependencies": {
     "babel-core": "^6.3.17",
     "babel-loader": "^6.2.0",
