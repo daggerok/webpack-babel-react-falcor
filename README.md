@@ -1,7 +1,7 @@
 webpack-babel-react-falcor [![build](https://api.travis-ci.org/daggerok/webpack-babel-react-falcor.svg?branch=master)](https://api.travis-ci.org/daggerok/webpack-babel-react-falcor.svg?branch=master)
 ==========================
 
-using npm scripts, webpack, falcor data processing and react components
+npm scripts, webpack, falcor, react and lodash
   
   ```
   npm start
