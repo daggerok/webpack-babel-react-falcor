@@ -1,0 +1,34 @@
+{
+  "name": "webpack-react-example",
+  "version": "1.0.0",
+  "description": "npm scripts, webpack with babel, falcor data processing and react components",
+  "main": "src/index.jsx",
+  "scripts": {
+    "webpack": "webpack",
+    "prewebpack": "npm install",
+    "build": "npm run webpack --progress --colors --display-error-details",
+    "prestart": "npm install",
+    "start": "./node_modules/.bin/webpack --progress --colors --display-error-details --watch "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daggerok/gulp-react-example.git"
+  },
+  "author": "Maksim Kostromin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daggerok/gulp-react-example/issues"
+  },
+  "homepage": "https://github.com/daggerok/gulp-react-example#readme",
+  "devDependencies": {
+    "babel-core": "^6.3.17",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "falcor": "^0.1.14",
+    "lodash": "^3.10.1",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "webpack": "^1.12.9"
+  }
+}
