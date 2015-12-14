@@ -1,4 +1,5 @@
 const 
+falcor      = require('falcor'),
 $ref        = falcor.Model.ref,
 $atom       = falcor.Model.atom,
 model       = new falcor.Model({

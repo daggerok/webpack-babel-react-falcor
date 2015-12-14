@@ -8,4 +8,10 @@ npm scripts, webpack, falcor, react and lodash
   open index.html
   ```
 
+plus production configuration with source-maps
+
+  ```
+  npm run build
+  ```
+
 [travis-ci](https://travis-ci.org/daggerok/webpack-babel-react-falcor)
